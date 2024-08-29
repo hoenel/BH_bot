@@ -1,7 +1,6 @@
 <RCC>
   <qresource prefix="newPrefix">
     <file>465242.png</file>
-    <file>C:/Users/trach/Desktop/png-transparent-sound-icon-ui-symbol-speaker-audio-volume-pixel-pixel-art-8-bit (1).png</file>
     <file>bang.png</file>
     <file>frame chinh.png</file>
     <file>pause pressed.png</file>
@@ -14,4 +13,5 @@
     <file>bhbutton.png</file>
     <file>backgroundbh new.png</file>
   </qresource>
+  <qresource prefix="newPrefix"/>
 </RCC>
