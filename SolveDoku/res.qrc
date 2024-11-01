@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>sudoku.png</file>
+    <file>23757374.jpg</file>
+    <file>465242.png</file>
+    <file>bang.png</file>
+    <file>frame chinh.png</file>
+    <file>pause pressed.png</file>
+    <file>pause.png</file>
+    <file>run pressed.png</file>
+    <file>run.png</file>
+    <file>bg.jpg</file>
+    <file>demo background.png</file>
+    <file>wallpaperflare-cropped.jpg</file>
+    <file>bhbutton.png</file>
+    <file>backgroundbh new.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
